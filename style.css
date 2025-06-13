@@ -1,6 +1,6 @@
 body{
-color: rgb(255, 255, 255);
-background: rgb(229, 233, 3);
+color: rgb(255, 240, 27);
+background: rgb(255, 255, 255);
 margin: 0px;
 }
 
@@ -8,5 +8,5 @@ header {
 border-bottom: solid 2px rgb(5, 5, 5);
 padding: 20px;
 font-size: 32px;
-color: rgb(255, 255, 255);
+color: rgb(251, 255, 11);
 }
